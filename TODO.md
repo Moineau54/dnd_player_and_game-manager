@@ -1,15 +1,16 @@
 # TODO
 
-https://youtu.be/PY_N1XdFp4w?si=UgNcoAW7LLok0r_h
-
 ## General
+
 
 - [ ] A feature to add / remove a character to a list of favorites
 
-- [ ] A World map to show the locations of the characters
 
-- [ ] A Dungeon map that only shows the characters in the dungeon and what they can see
-
+    <details>
+        <summary>possible features to add</summary>
+            <input type="checkbox"> A World map to show the locations of the characters (Maybe)</input><br>
+            <input type="checkbox"> A Dungeon map that only shows the characters in the dungeon and what they can see (Maybe)</input><br>
+    </details>
 
 ## Game Master
 
@@ -30,7 +31,7 @@ https://youtu.be/PY_N1XdFp4w?si=UgNcoAW7LLok0r_h
         <summary>Ideas</summary>
         <ul>
             <li>Use the pdf2text library</li>
-            <li>Use image text extraction by selecting the areas to extract from as images</li>
+            <li>Use image text extraction by selecting the areas to extract from as <a href="https://youtu.be/PY_N1XdFp4w?si=UgNcoAW7LLok0r_h">images</a></li>
         </ul>
     </details>
 
