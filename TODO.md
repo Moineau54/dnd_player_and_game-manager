@@ -8,8 +8,10 @@
 
     <details>
         <summary>possible features to add</summary>
-            <input type="checkbox"> A World map to show the locations of the characters (Maybe)</input><br>
-            <input type="checkbox"> A Dungeon map that only shows the characters in the dungeon and what they can see (Maybe)</input><br>
+        <ul>
+            <li>A World map to show the locations of the characters (Maybe)</li>
+            <li> A Dungeon map that only shows the characters in the dungeon and what they can see (Maybe)</li>
+        </ul>
     </details>
 
 ## Game Master
