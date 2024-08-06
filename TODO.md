@@ -1,5 +1,7 @@
 # TODO
 
+https://youtu.be/PY_N1XdFp4w?si=UgNcoAW7LLok0r_h
+
 ## General
 
 - [ ] A feature to add / remove a character to a list of favorites
